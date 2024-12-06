@@ -1,0 +1,53 @@
+Question
+
+Assignment: Shopping Basket Page
+
+ Objective: Create a responsive Shopping Basket webpage that closely replicates the given Figma design. Use HTML, CSS, and Bootstrap to implement the design.
+
+ Figma design: https://www.figma.com/proto/ERtmT4PJV0JszSGwRZCWWa/Figma-basics?node-id=4368-321123 &node-type=canvas&t=ff7LFWJXSVSsHiBc-0&scaling=min-zoom&content-scaling=fixed&page-id= 1669%3A162202 
+
+Instructions: 
+
+1. Design
+
+ Requirements:
+○ Replicate the layout and style shown in the Figma prototype. 
+○ Ensure the page is fully responsive and works seamlessly across desktop, tablet, and mobile devices. 
+○ Use Bootstrap's grid system for responsiveness. ○ Implement the fonts, colors, and other design elements as closely as possible to the Figma file. 
+
+2. Functional
+
+ Requirements: 
+
+○ Create the following sections: 
+
+■ Header: With the "World Peas" logo, navigation links, and a basket button. 
+■ Basket Items: List of items with an image, name, price per kg, and total price. 
+■ Order Summary: Subtotal, shipping cost, tax, and total amount. 
+■ Payment Button: A button labeled "Continue to payment." 
+
+3. Fonts and Colors: 
+
+○ Use Google Fonts for typography: 
+
+■ Playfair Display for headings. 
+■ Roboto for body text. 
+
+○ Match colors as shown in the Figma design. 
+
+4. Assets: 
+○ Use placeholder images or similar free images for the product images 
+
+5. Code Requirements: 
+
+○ Write clean, semantic HTML5. 
+○ Use CSS for custom styles and Bootstrap for layout and components. 
+○ Avoid inline styles; use external CSS files. 
+
+Submission Process: 
+
+1. Live Link: 
+○ Deploy your project using any hosting platform. Provide the live URL for the project. OR 
+
+2. GitHub Repository: 
+○ Push your code to a GitHub repository. And submit the link.

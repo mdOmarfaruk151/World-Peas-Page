@@ -47,3 +47,10 @@ header ul.nav .nav-link:hover {
 .order-summary h5 {
     font-family: 'Playfair Display', serif;
 }
+/* card background color */
+.basket-item {
+    background-color: #fafaf5;
+}
+.order-summary {
+    background-color: #fafaf5;
+}
